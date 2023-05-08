@@ -1,0 +1,31 @@
+span {
+    color: white;
+}
+
+h1 {
+    color:aqua;
+    background-color: black;
+    font-family: cursive;
+    font-size: 40px;
+    height: 80px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    background-color: darkmagenta;
+    font-family: monospace;
+    height: 40px;
+}
+
+h3 {
+    color:darkslateblue;
+    text-align: right;
+    text-decoration: underline;
+    background-color:lightskyblue;
+    font-family: monospace;
+    font-size: 20px;
+    height: 40px;
+}
